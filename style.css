@@ -7,4 +7,5 @@
 }
 :root{
     background-color: var(--cor-de-fundo)
+    color: var(var(--branco-principal))
 }

@@ -21,4 +21,7 @@ body {
 }
 .container__botão{
     background-color: aqua;
+    border-radius: 5px;
+    padding: lem;
+    
 }

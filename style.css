@@ -17,5 +17,8 @@ body {
     background-size:contain
 }
 .container{
-    height: 100vh;0
+    height: 100vh;
+}
+.container__botão{
+    background-color: aqua;
 }
